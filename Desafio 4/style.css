@@ -1,12 +1,38 @@
-/* body{
-    background-color: skyblue;
-    
-}
-
-
-@media (max-width: 430px){
-    body {
-        background-color: aquamarine;
+/* div > div {
+        background-color: rgb(34, 233, 8);
+        border: 1px solid;
+        margin: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;  
+        text-align: center;
+        flex-basis: 100px;
+        font-family: "Bona Nova SC", serif;
+        font-weight: 400;
+        font-style: normal;
         
     }
-} */
+    h1 {
+        background-color:chartreuse;
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+    }
+    button{
+        background-color:rgb(238, 255, 0);
+        border-radius: 10px;
+        font-family: "Bona Nova SC", serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+    .container {
+        display: flex;
+        justify-content: center;
+    }
+    @media (max-width: 300px){
+        .container {
+            flex-direction: column;
+        }
+    }
+    
+     */

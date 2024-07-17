@@ -1,0 +1,16 @@
+/* .branco {
+    background-color: #f0d9b5;
+    height: 20px;
+    width: 20px;
+
+}
+.preto {
+    background-color: #b58863;
+    height: 20px;
+    width: 20px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(8, 20px);
+    grid-template-rows: repeat(8,20px);
+}    */
